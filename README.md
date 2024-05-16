@@ -1,6 +1,6 @@
 Para rodar a reconstrução 3D utilizando o OpenPose. 
 
-Inicialmente fazer o print dos calibradores e inserir dentro da pasta /snap_calib/c1 e /snap_calib/c2.
+Inicialmente fazer o print dos calibradores e inserir dentro da pasta /snap_calib/c1 e /snap_calib/c2.\n
 Rodar o código makecalib_dat.py
 Fazer o arquivo refcal.ref com as coordenadas reais dos pontos do calibrador dentro da pasta /info_calib
 Rodar código make_dlt.py
